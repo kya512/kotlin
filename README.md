@@ -19,4 +19,4 @@ Le dépôt est organisé de la manière suivante :
 
 ## Auteur
 
-[Kelly]([lien_vers_votre_profil_github](https://github.com/kya512))
+[Kelly](https://github.com/kya512)
