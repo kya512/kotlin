@@ -19,4 +19,4 @@ Le dépôt est organisé de la manière suivante :
 
 ## Auteur
 
-[Prénom Nom](lien_vers_votre_profil_github) - [Votre site web/portfolio](lien_vers_votre_site_web)
+[Kelly]([lien_vers_votre_profil_github](https://github.com/kya512))
