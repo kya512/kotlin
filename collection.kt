@@ -56,6 +56,19 @@ fun mutable() {
     println("liste des nombres impairs ${impairs}")
 }
 
-fun main(){
-    println(mutable())
+//Exercice 4
+
+fun serie(n : Int): List<Int> {
+    val liste = mutableListOf<Int>()
+    for (i in 1..n) {
+        liste.add(i)
+    }
+    return liste
 }
+
+fun serieInverse(n: Int): List<Int> {
+    fun serieInverse(n: Int): List<Int> {
+        val tab = serie(5).reversed()//on apelle la fonction serie(n) puis on fait la methode reversed()
+                                    // pour inverser la liste
+        return tab //on retourne la variable
+    }
