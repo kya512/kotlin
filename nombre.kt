@@ -20,8 +20,3 @@ class Nombre {
 
     }
 }
-
-
-fun main(){
-    
-}
